@@ -1,68 +1,168 @@
-%PDF-1.4
-%���� ReportLab Generated PDF document (opensource)
-1 0 obj
-<<
-/F1 2 0 R
->>
-endobj
-2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
-endobj
-3 0 obj
-<<
-/Contents 7 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 6 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <title>1393322158</title>
 
->> 
-  /Type /Page
->>
-endobj
-4 0 obj
-<<
-/PageMode /UseNone /Pages 6 0 R /Type /Catalog
->>
-endobj
-5 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20260117071100+02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260117071100+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
->>
-endobj
-6 0 obj
-<<
-/Count 1 /Kids [ 3 0 R ] /Type /Pages
->>
-endobj
-7 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 946
->>
-stream
-Gatm8gMY_1&:Ml+bY+38!VI?bV/L4>5"3.1:+K=ig"6CCA+)I*U#bZ(@tPp='H0tB``g^US2k3c7._/c1FiJiV"!N1!"hRZ"Yo?S+h`Peo]4t!X<Nk<T1n7$JFR=&(R&ArH1X+s5MOit<=j"E62>(j0rcbD>jncC8X6ajn)+g!'I\%0%PV!`h$umU[0(&n=/[uk%mR=lU\dPH&$i3oomBq>r&P6s=MjGj#VWmWh.YnX.Pmlq@0D:3%I#N:4)f?XS5\))X:GTi2u;o/2]T3g%["%=F2X0dDT-kuUs#XUgLsBD6O^t]$+r14B$=UC8,+7`>j7Y8)SR-Q]9M?[nlX`\`GlTMkKtVdnNsV)nSkt,*.j[Ha*Ye2E1u>W<fJ95jJP9g=O`bd/1.pCN'uVIS)]_tYOhfT6?.=fikd<q1g1YTUc+GP8B@(>K!3@<R"W[5LTOlR=Z?(U.VaWALib(gk*7*Df%O#J>,W=m[F1^F=T>V0Bir/^AQ8hE=2f%BVeXMRG"lda$K]f*5ZfGdj0lW)#N2J+(UW_</D2?(2?<H1oP/rqN[/Np#tU95[QRt,L/:GLh[>jQ;HXVJ9rJBM3Gt^J$>lbC9XH.CH4HVod\n1_2PWnnK(fPOA^R+'Q;^.SG#2>jj8%q^QZh5+*G)dCj8#ugeRia#on(:@Pr$J_)ruB"aRW*V.r.5l3H<'"dV.e6.=_:@$o8a6cnP"ZGf'r]^L?/5Y@69$k#ig[j+\fm)Wkb)[=$XqVp]mV&Q;)=AS[&5FhDsBO8QUVN]T\n17"5I>drg\(@OL'UlF<kO^)Tk"70!`Bn'Ib^]GZ&(Iu)o78RbAVc/l&Cq]V`'5_BR%@73*bK3sd3bGF4;SOsFqZCNFl[XJsYs7-^De!j_7`-%CAr<`7>(RTLA9,Ur;>_O4?AGhNp6"*i&su@!Og"=P048Dq3;EZH;E__~>endstream
-endobj
-xref
-0 8
-0000000000 65535 f 
-0000000061 00000 n 
-0000000092 00000 n 
-0000000199 00000 n 
-0000000402 00000 n 
-0000000470 00000 n 
-0000000750 00000 n 
-0000000809 00000 n 
-trailer
-<<
-/ID 
-[<97b45798a44853835b30f175cc424bc7><97b45798a44853835b30f175cc424bc7>]
-% ReportLab generated PDF document -- digest (opensource)
+    <!-- Mobile-first -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-/Info 5 0 R
-/Root 4 0 R
-/Size 8
->>
-startxref
-1845
-%%EOF
+    <!-- Base style -->
+    <style>
+        :root {
+            --bg: #ffffff;
+            --fg: #111111;
+            --muted: #6b7280;
+            --link: #2563eb;
+            --border: #e5e7eb;
+            --code-bg: #f5f7fa;
+        }
+
+        html {
+            font-size: 16px;
+        }
+
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont,
+                         "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--fg);
+            line-height: 1.65;
+        }
+
+        main {
+            max-width: 720px;
+            margin: auto;
+            padding: 1.2rem;
+        }
+
+        h1, h2, h3, h4 {
+            line-height: 1.3;
+            margin-top: 2rem;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-top: 0;
+        }
+
+        h2 {
+            font-size: 1.4rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.3rem;
+        }
+
+        p {
+            margin: 0.8rem 0;
+        }
+
+        a {
+            color: var(--link);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        ul, ol {
+            padding-left: 1.3rem;
+        }
+
+        li {
+            margin: 0.3rem 0;
+        }
+
+        blockquote {
+            border-left: 4px solid var(--border);
+            padding-left: 1rem;
+            color: var(--muted);
+            margin: 1.2rem 0;
+        }
+
+        pre {
+            background: var(--code-bg);
+            padding: 0.8rem;
+            overflow-x: auto;
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+
+        code {
+            background: var(--code-bg);
+            padding: 0.15rem 0.35rem;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+        }
+
+        th, td {
+            border: 1px solid var(--border);
+            padding: 0.4rem 0.6rem;
+            text-align: left;
+        }
+
+        th {
+            background: #f9fafb;
+        }
+
+        /* TOC */
+        nav.toc {
+            font-size: 0.9rem;
+            border: 1px solid var(--border);
+            padding: 0.8rem;
+            border-radius: 8px;
+            background: #fafafa;
+            margin-bottom: 1.5rem;
+        }
+
+        nav.toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        nav.toc li {
+            margin: 0.2rem 0;
+        }
+
+        /* Desktop enhancement */
+        @media (min-width: 900px) {
+            html {
+                font-size: 17px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<main>
+    <h1>1393322158</h1>
+
+    
+    <nav class="toc">
+        <strong>Sommaire</strong>
+        <div class="toc">
+<ul></ul>
+</div>
+
+    </nav>
+    
+
+    <article>
+        <p><strong>Titre : Les leaders européens soutiennent Zelensky et apportent leur soutien aux États-Unis face à la Russie</strong>
+- Source : The Washington Post, 2 septembre 2021
+- Résumé : Lors d&rsquo;une rencontre avec les chefs d&rsquo;État de l&rsquo;Europe, Donald Trump a discuté de la crise en Ukraine et des sanctions à infliger à la Russie. Les leaders européens ont exprimé leur soutien aux États-Unis dans leur politique vis-à-vis de la Russie, notamment face à la tentative d&rsquo;annexion de la Crimée par Vladimir Poutine. Ce soutien a permis à Zelensky de se maintenir dans la lutte contre les forces pro-Russes en Ukraine et de renforcer la sécurité de l&rsquo;Europe occidentale face aux ambitions hégémoniques de la Russie.
+- Ambiguïté ou contradiction : L&rsquo;article ne présente pas d&rsquo;ambiguïté ou de contradiction apparentes, mais il peut y avoir une incertitude sur les sanctions à infliger à la Russie et leur efficacité dans le contexte de la crise en Ukraine.</p>
+<p>Nb words in Original : 17169
+Nb words in Summary : 156     99% reduction</p>
+    </article>
+</main>
+</body>
+</html>
