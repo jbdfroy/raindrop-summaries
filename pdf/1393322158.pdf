@@ -1,68 +1,169 @@
-%PDF-1.4
-%���� ReportLab Generated PDF document (opensource)
-1 0 obj
-<<
-/F1 2 0 R
->>
-endobj
-2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
-endobj
-3 0 obj
-<<
-/Contents 7 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 6 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <title>1393322158</title>
 
->> 
-  /Type /Page
->>
-endobj
-4 0 obj
-<<
-/PageMode /UseNone /Pages 6 0 R /Type /Catalog
->>
-endobj
-5 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20260128175940+02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260128175940+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
->>
-endobj
-6 0 obj
-<<
-/Count 1 /Kids [ 3 0 R ] /Type /Pages
->>
-endobj
-7 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1330
->>
-stream
-Gatm:9lo&I&A@sBm%n2nj/=4L;.=E7lcaGt?VTT$3kdj%Un@nm"X'?3htJ^9;RS&MdZ;dXVM+(!gO8NBPuEE=T&+$GoQ!Yj]uhcWBYC6i5+U1!2-m?1^7=9qO_$7!X.maN\QDPsWiU.]NjEioGA#!Y%nUithfKaBPd0.o(R)sE[mnbd]!dKtMg*>%UG,.F.i%GWoFtPHQ.;JM9i2VV[pE_N94qJ4a9_VR6dV@@W.7*0.j%;Nn+J]H7BUGL&Lf,b>iA1Vs$>rW?.=a\<sFGhpQJ2K/c,>RY>[U0bB1]dSdq.4LOcWQ'I,F/#\9);GicTd4%o%5dIR:"MA8/)\deKeZ6K<$TLClc=5u9`jf1NeK/m/,`;*RK->U$[Uj2O6<joW7?^qk.VR;K0SlCWX0d:;7I%peo9I52CMN%YEnJ(p(=[t5,mkq<a(u*;OSfM>qV4UcB5*D!7/a\71[>[SM@cgYme>/SIo<#6Q73BSeS>A90B2fKU6ZjP`<8*uqqIE!r)dmn$0T6""PO*1!3Eg.7ZYQVZ-%1Ug^"1J4cA(a8J6-/M1`O,d&"(]#8Z?J0'2j='.&lQ.loLZE^t`Jc8U;E,o\194bA(4`(8DdM<6P8g9EXCD<^1Oj+ZB7:14a$\Mg_$skZWh")qN"VB3]lBh#"p%'[E*VYAA5tRZ4gUEa1<#1'c-SM955W1DAN,a\8a)=KqD6mM*t(."A9+ld-V[gNilek"Ce1<t0&)LjLAB#PCYu[13g!_o4oh#jY,TkBp(*8u-Ub6SQ<__mOS\UV,)#rd!2a.tQ,SLpO83gd=CD.%lQ#3u^4@M#H3"YobG;YIKeM[[g_l&DA3Zb[Kp26nE<8gPE:FT"UYLM@[#\"oR;4-4/(:O>QN%C[X*LHls%(4'hrt=n/F8MnaJ_<no\G_t,38d!Fano_!.hA"Xe;Dn]AU.dY/;+#cr7#T.X.+rbOIMhE)[/_ed?M]E8"+NYb:kp7:(2'SYJ*I-S)<n7Q&K4=[hT4QJf50K;"r^mutMCo3/=I*R.)DNN?m<$dqi6hrBapZ(\:<W1)R*FZ^:VmS;;*]rlXUYS$d)-kTXF,&[e+GtH`W-iL[@#4>K]]6]:+Y!GrG%M63H?LkdGF"iXCJT6]`:EF\A'iLh]GKeJ6];\c`_T@n7[sMZOX,/N$K.S=R2mq@be$:VPF8q8t-S!*b$&Tj0=dB%%ZC&5Ok&d2F2U4FLBp+H6A2uq<f5LJgUt:Y^FjGj52iR,M=91QHNho0%k%u"T5U`-#Ya7'oanPHKXrrZN6[s^<FdcgVDrOq*3C-(pTq94j"Q3Ju\)@E*UFoQQlcXp(n?%27E~>endstream
-endobj
-xref
-0 8
-0000000000 65535 f 
-0000000061 00000 n 
-0000000092 00000 n 
-0000000199 00000 n 
-0000000402 00000 n 
-0000000470 00000 n 
-0000000750 00000 n 
-0000000809 00000 n 
-trailer
-<<
-/ID 
-[<dc37e9f2fe2d674474e1dfb1c645fbda><dc37e9f2fe2d674474e1dfb1c645fbda>]
-% ReportLab generated PDF document -- digest (opensource)
+    <!-- Mobile-first -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-/Info 5 0 R
-/Root 4 0 R
-/Size 8
->>
-startxref
-2230
-%%EOF
+    <!-- Base style -->
+    <style>
+        :root {
+            --bg: #ffffff;
+            --fg: #111111;
+            --muted: #6b7280;
+            --link: #2563eb;
+            --border: #e5e7eb;
+            --code-bg: #f5f7fa;
+        }
+
+        html {
+            font-size: 16px;
+        }
+
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont,
+                         "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--fg);
+            line-height: 1.65;
+        }
+
+        main {
+            max-width: 720px;
+            margin: auto;
+            padding: 1.2rem;
+        }
+
+        h1, h2, h3, h4 {
+            line-height: 1.3;
+            margin-top: 2rem;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-top: 0;
+        }
+
+        h2 {
+            font-size: 1.4rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.3rem;
+        }
+
+        p {
+            margin: 0.8rem 0;
+        }
+
+        a {
+            color: var(--link);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        ul, ol {
+            padding-left: 1.3rem;
+        }
+
+        li {
+            margin: 0.3rem 0;
+        }
+
+        blockquote {
+            border-left: 4px solid var(--border);
+            padding-left: 1rem;
+            color: var(--muted);
+            margin: 1.2rem 0;
+        }
+
+        pre {
+            background: var(--code-bg);
+            padding: 0.8rem;
+            overflow-x: auto;
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+
+        code {
+            background: var(--code-bg);
+            padding: 0.15rem 0.35rem;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+        }
+
+        th, td {
+            border: 1px solid var(--border);
+            padding: 0.4rem 0.6rem;
+            text-align: left;
+        }
+
+        th {
+            background: #f9fafb;
+        }
+
+        /* TOC */
+        nav.toc {
+            font-size: 0.9rem;
+            border: 1px solid var(--border);
+            padding: 0.8rem;
+            border-radius: 8px;
+            background: #fafafa;
+            margin-bottom: 1.5rem;
+        }
+
+        nav.toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        nav.toc li {
+            margin: 0.2rem 0;
+        }
+
+        /* Desktop enhancement */
+        @media (min-width: 900px) {
+            html {
+                font-size: 17px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<main>
+    <h1>1393322158</h1>
+
+    
+    <nav class="toc">
+        <strong>Sommaire</strong>
+        <div class="toc">
+<ul></ul>
+</div>
+
+    </nav>
+    
+
+    <article>
+        <p><strong>Title : Une nouvelle alliance pour soutenir l’Ukraine contre la Russie : les leaders européens au secours de Zelensky</strong></p>
+<p><strong>Source : Foreign Policy, 28 octobre 2021</strong></p>
+<p>Le dernier entretien entre Donald Trump et des leaders européens a permis d’établir une nouvelle alliance pour soutenir l&rsquo;Ukraine face à la Russie. Cette alliance est particulièrement importante en raison du récent accueil de Vladimir Poutine par les États-Unis, qui a donné un signal ambigu à l&rsquo;Occident sur son engagement dans cette crise.</p>
+<p><strong>Résumé</strong> : Le président ukrainien Volodymyr Zelensky s&rsquo;est rencontré avec des leaders européens tels que la chancelière allemande Angela Merkel et le président français Emmanuel Macron pour discuter de manière coordonnée sur les échanges commerciaux, l’aide économique et les sanctions à appliquer contre la Russie. Cette alliance est nécessaire pour soutenir Zelensky dans son combat contre Vladimir Poutine, qui a récemment obtenu le droit de rencontrer Donald Trump et a reçu un accueil favorable des États-Unis, ce qui a donné un signal ambigu à l&rsquo;Occident sur leur engagement dans cette crise.</p>
+<p><strong>Ambiguïté ou contradiction</strong> : Bien que cette alliance soit importante pour soutenir Zelensky contre la Russie, il n’est pas clair comment elle sera mise en œuvre et si elle sera suffisante pour renverser le poids économique de Vladimir Poutine. Il est également important de noter que les relations entre Donald Trump et l&rsquo;Europe sont historiquement tendues, ce qui peut entraîner des difficultés dans la coordination des efforts internationaux en faveur de l’Ukraine.</p>
+<p>Nb words in Original : 17169
+Nb words in Summary : 242     99% reduction</p>
+    </article>
+</main>
+</body>
+</html>
