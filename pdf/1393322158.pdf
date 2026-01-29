@@ -1,68 +1,167 @@
-%PDF-1.4
-%���� ReportLab Generated PDF document (opensource)
-1 0 obj
-<<
-/F1 2 0 R
->>
-endobj
-2 0 obj
-<<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
->>
-endobj
-3 0 obj
-<<
-/Contents 7 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 6 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <title>1393322158</title>
 
->> 
-  /Type /Page
->>
-endobj
-4 0 obj
-<<
-/PageMode /UseNone /Pages 6 0 R /Type /Catalog
->>
-endobj
-5 0 obj
-<<
-/Author (\(anonymous\)) /CreationDate (D:20260129195916+02'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260129195916+02'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
->>
-endobj
-6 0 obj
-<<
-/Count 1 /Kids [ 3 0 R ] /Type /Pages
->>
-endobj
-7 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1172
->>
-stream
-GatU1bAJ7h&A7<Zq@^jm.#,?]8G(/fjCBNZbeQL%bAao#)Jf'*Gpq+u]=O>6d>!K;#RD!R1HjRE<RnDZc1*=Vh_mkU\+Ij^"Vi>#pJ`\V9A7+R?agiD08`-X\t#l]jee^:eS8-$ef1-sp0>'oI=VgGR'a[)B#ls`N2>T^2OSAe$;Ae1%7fu*.LqS#LT^Ze=;BU\179>AHY8`r-?#iGSNXEKnm*rPFkjEg,.GK$h"2YMQ`dG:Y'"#l8Y0U6OQ,;03WGMUT4g<[BA8N;IPNptUUtaFIBUQM>+_V.mftD0A&()3atjI=mrGXaIs]B2_8KPC:L-W^Z3cA?J"0Cs0,Hj+ZWth6S+A=82s#&ZXAFgr9)U1i`nVu1cR0BPD'4o$7)8&gk:-4"P7uFjdi/5lJKRD!SBqjf.mj,S1*b'0%]:dS<CVsoYX>Z_g=CuLnk[C"!B]mDT/4sNN1+8sYZ[IKH10s8p,I3hW#hTJhS_K3UR*sC7t>D,MIOtUJkA<Z,!dX@%<<m2A<_u0/3lU27&E@$R*$]pDV9ASA?!^l/3f53H?#]lL6n)1DQfU\j[p'P=pCfP,A;&$(,B@c9\O+k?%q&]PW,.B[9]OrcOu3kl8*u6mk@iLb$hC=g:bgknhfj-bjH<[YiGgk\2kf4lBDI<AcfI=%ZZ8O^l+D?;*o(/LIjVEe+.<+rec&?.jJ>fHa_AV/h37R'!lF@Rja-3g*FAa*FL?e!UD5b<%:4h:M`tm_XZ?9=OQcJj0>D:c3u:)cmg8bi*L_tOu4XF]LDV*f`bF8!3Bq^^SZ[Q0NlPngc`Zne>e'C+fB-O$@3?crSGLD&cE%Ia=(BK*K5!=)!)9c$FG%ki74q@XB9''@"pjaj3VsZ5[0DU!s&]9m`Eb#7XQETUDcB[<2MY!K%d9nXQ385eomaE"3nYCnZFA4<W__p44ENlA.jnZWkHE`3i]FmNBrmKi-V(@eH+mlThqeuMP)l$;D/BOU.?WMX1pnR#-^#Y:h8eD:`)S'm?h/R&.Js2-]1DDq4T`.a<K0d4AJI67Eu.g`2G%.drW6iAONrDeWZh3hfn%Y^E/LukQ<n=rp8N\l.,H9[_>n8^STQ$EW<e%97GdG5:RZ@^-@4M*UZjR=,Q<Q^%h\2bK^&?q`Zru$'.t!hjMaO-X6mV[\Cf$#jC7UMgUT/~>endstream
-endobj
-xref
-0 8
-0000000000 65535 f 
-0000000061 00000 n 
-0000000092 00000 n 
-0000000199 00000 n 
-0000000402 00000 n 
-0000000470 00000 n 
-0000000750 00000 n 
-0000000809 00000 n 
-trailer
-<<
-/ID 
-[<2065c660382795f61ac8f954ca44e375><2065c660382795f61ac8f954ca44e375>]
-% ReportLab generated PDF document -- digest (opensource)
+    <!-- Mobile-first -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-/Info 5 0 R
-/Root 4 0 R
-/Size 8
->>
-startxref
-2072
-%%EOF
+    <!-- Base style -->
+    <style>
+        :root {
+            --bg: #ffffff;
+            --fg: #111111;
+            --muted: #6b7280;
+            --link: #2563eb;
+            --border: #e5e7eb;
+            --code-bg: #f5f7fa;
+        }
+
+        html {
+            font-size: 16px;
+        }
+
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont,
+                         "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--fg);
+            line-height: 1.65;
+        }
+
+        main {
+            max-width: 720px;
+            margin: auto;
+            padding: 1.2rem;
+        }
+
+        h1, h2, h3, h4 {
+            line-height: 1.3;
+            margin-top: 2rem;
+        }
+
+        h1 {
+            font-size: 1.8rem;
+            margin-top: 0;
+        }
+
+        h2 {
+            font-size: 1.4rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.3rem;
+        }
+
+        p {
+            margin: 0.8rem 0;
+        }
+
+        a {
+            color: var(--link);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        ul, ol {
+            padding-left: 1.3rem;
+        }
+
+        li {
+            margin: 0.3rem 0;
+        }
+
+        blockquote {
+            border-left: 4px solid var(--border);
+            padding-left: 1rem;
+            color: var(--muted);
+            margin: 1.2rem 0;
+        }
+
+        pre {
+            background: var(--code-bg);
+            padding: 0.8rem;
+            overflow-x: auto;
+            border-radius: 6px;
+            font-size: 0.9rem;
+        }
+
+        code {
+            background: var(--code-bg);
+            padding: 0.15rem 0.35rem;
+            border-radius: 4px;
+            font-size: 0.9em;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.2rem 0;
+            font-size: 0.95rem;
+        }
+
+        th, td {
+            border: 1px solid var(--border);
+            padding: 0.4rem 0.6rem;
+            text-align: left;
+        }
+
+        th {
+            background: #f9fafb;
+        }
+
+        /* TOC */
+        nav.toc {
+            font-size: 0.9rem;
+            border: 1px solid var(--border);
+            padding: 0.8rem;
+            border-radius: 8px;
+            background: #fafafa;
+            margin-bottom: 1.5rem;
+        }
+
+        nav.toc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        nav.toc li {
+            margin: 0.2rem 0;
+        }
+
+        /* Desktop enhancement */
+        @media (min-width: 900px) {
+            html {
+                font-size: 17px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<main>
+    <h1>1393322158</h1>
+
+    
+    <nav class="toc">
+        <strong>Sommaire</strong>
+        <div class="toc">
+<ul></ul>
+</div>
+
+    </nav>
+    
+
+    <article>
+        <p><strong>Titre : Les leaders européens au service de la défense ukrainienne : un exemple d&rsquo;ingéniosité face à Trump</strong></p>
+<p><strong>Source : The Washington Quarterly, 2023</strong></p>
+<p><strong>Résumé :</strong> Dans cet article, l&rsquo;auteur analyse le meeting entre les leaders européens et Donald Trump pour soutenir la défense ukrainienne, après que Putin ait accueilli Zelensky à Alaska. Bien que les tensions entre Trump et les alliés américains soient traditionnellement dues aux impositions de tarifs et à l&rsquo;incertitude générale du président, l&rsquo;auteur montre comment les leaders européens ont pu utiliser leur influence pour stabiliser la politique ukrainienne-américaine et renforcer ainsi la sécurité européenne. Cependant, avec l&rsquo;absence d&rsquo;un conseiller comme Abe pour gérer Trump, la trajectoire de la stratégie asiatique demeure incertaine, car certains membres de l&rsquo;administration actuellement partagent la même alarme vis-à-vis des ambitions hégémoniques de la Chine que dans le premier mandat de Trump, tandis que d&rsquo;autres sont prêts à négocier des accords commerciaux avec Pékin. Les alliés asiatiques ont désormais une plus grande urgence à garder les États-Unis engagés dans la région en raison des ambitions expansionnistes de la Chine, mais seulement si les leaders peuvent maintenir un rapport personnel avec Trump.</p>
+<p>Nb words in Original : 17169
+Nb words in Summary : 189     99% reduction</p>
+    </article>
+</main>
+</body>
+</html>
